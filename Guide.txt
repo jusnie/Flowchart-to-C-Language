@@ -1,0 +1,11 @@
+// when you input 200000
+the tax is: 0
+
+// when you input 300000
+the tax is: 37500
+
+// when you input 500000
+the tax is: 122500
+
+// enter annual income: 10000000
+the tax is: 2,880,250
